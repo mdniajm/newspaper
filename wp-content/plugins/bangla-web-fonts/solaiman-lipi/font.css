@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'SolaimanLipi';
+  src: url('/wp-content/plugins/bangla-web-fonts/solaiman-lipi/SolaimanLipi.eot');
+  src: url('/wp-content/plugins/bangla-web-fonts/solaiman-lipi/SolaimanLipi.woff') format('woff'),
+       url('/wp-content/plugins/bangla-web-fonts/solaiman-lipi/SolaimanLipi.ttf') format('truetype'),
+       url('/wp-content/plugins/bangla-web-fonts/solaiman-lipi/SolaimanLipi.svg#SolaimanLipiNormal') format('svg'),
+       url('/wp-content/plugins/bangla-web-fonts/solaiman-lipi/SolaimanLipi.eot#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
